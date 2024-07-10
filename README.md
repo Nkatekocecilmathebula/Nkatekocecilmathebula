@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nkatekocecilmathebula" alt="nkatekocecilmathebula" /></a> </p>
 
-<h3 align="left">About me:</h3>
+<h3 align="left">What I am currently working on:</h3>
+
 - 🔭 I’m currently working on **Building an e-commerce shopping system**
 
 - 🌱 I’m currently learning **Flutter + Dart programming, JavaScript and React**

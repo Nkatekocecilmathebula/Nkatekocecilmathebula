@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter + Dart programming, JavaScript and React**
 
-- 👯 I’m looking to collaborate on **Test Automation**
+- 👯 I’m looking to collaborate more on **Test Automation**
 
 - 💬 Ask me about **Selenium test automation**
 

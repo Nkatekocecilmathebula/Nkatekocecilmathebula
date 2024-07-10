@@ -1,7 +1,7 @@
-
-![p234](https://github.com/Nkatekocecilmathebula/Nkatekocecilmathebula/assets/171023473/3f1a3ab5-a694-4de5-8b18-23d728d35119)
 <h1 align="center">Hello world👋, I'm Nkateko Mathebula</h1>
 <h3 align="center">A smart thinker who enjoys challenges. I love solving problems and learning. Always thinking of a better ways to improve my life. Technology is simply what drives me, coding is what I enjoy the most.</h3>
+
+<img algn="right" alt="coding" width="400" src=https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkatekocecilmathebula&label=Profile%20views&color=0e75b6&style=flat" alt="nkatekocecilmathebula" /> </p>
 
@@ -30,4 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkatekocecilmathebula&show_icons=true&locale=en&layout=compact" alt="nkatekocecilmathebula" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkatekocecilmathebula&show_icons=true&locale=en" alt="nkatekocecilmathebula" /></p>
-

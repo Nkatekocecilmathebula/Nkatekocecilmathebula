@@ -1,5 +1,5 @@
+![P67](https://github.com/Nkatekocecilmathebula/Nkatekocecilmathebula/assets/171023473/b8d83602-3ef7-4842-8de5-6899aa76f85d)
 
-![p234](https://github.com/Nkatekocecilmathebula/Nkatekocecilmathebula/assets/171023473/dd7f7a15-8230-43af-b21e-e5517ec0e53b)
 
 <h1 align="center">Hello world👋, I'm Nkateko Mathebula</h1>
 <h3 align="center">I am a Full-Stack developer, also a smart thinker who enjoys challenges. I love solving problems and learning new skills. I am always thinking of a better ways to improve myself. Technology is simply what drives me, coding is what I enjoy the most.</h3>

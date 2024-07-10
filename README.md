@@ -11,7 +11,7 @@
 
 - 📫 I can be reached via email: **nc.mathebula96@gmail.com**
 
-- ⚡ Fun fact **I think I am the most handsome guy in the whole world**
+- ⚡ Fun fact: **I think I am the most handsome guy in the whole world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

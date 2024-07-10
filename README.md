@@ -1,3 +1,6 @@
+
+![p234](https://github.com/Nkatekocecilmathebula/Nkatekocecilmathebula/assets/171023473/dd7f7a15-8230-43af-b21e-e5517ec0e53b)
+
 <h1 align="center">Hello world👋, I'm Nkateko Mathebula</h1>
 <h3 align="center">I am a Full-Stack developer, also a smart thinker who enjoys challenges. I love solving problems and learning new skills. I am always thinking of a better ways to improve myself. Technology is simply what drives me, coding is what I enjoy the most.</h3>
 
@@ -9,15 +12,15 @@
 
 <h3 align="left">What I am currently working on:</h3>
 
-- 🔭 I’m currently working on **Building an e-commerce shopping system**
+- 🔭 I’m currently working on ** Building an e-commerce shopping system/ school website/ also my profile**
 
-- 🌱 I’m currently learning **Flutter + Dart programming, JavaScript and React**
+- 🌱 I’m currently learning and mastering the following **HTML, CSS, JavaScript and Java, also React native**
 
-- 👯 I’m looking to collaborate on **Test Automation**
+- 👯 I’m looking to collaborate more on **Test Automation**
 
-- 💬 Ask me about **Selenium test automation**
+- 💬 Ask me about **The frame work I enjoy working on**
 
-- 📫 I can be reached via email: **nc.mathebula96@gmail.com**
+- 📫 I can be reached via email: **nc.mathebula96@gmail.com/ or phone call +27614557169**
 
 - ⚡ Fun fact: **I think I am the most handsome guy in the whole world**
 

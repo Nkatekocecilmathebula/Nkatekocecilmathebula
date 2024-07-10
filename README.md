@@ -1,7 +1,7 @@
 <h1 align="center">Hello world👋, I'm Nkateko Mathebula</h1>
 <h3 align="center">I call myself a smart thinker who enjoys challenges. I love solving problems and learning new skills. I am always thinking of a better ways to improve myself. Technology is simply what drives me, coding is what I enjoy the most.</h3>
 
-<img align="center" alt="coding" width="400" length= "700" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<img align="center" alt="coding" width="400" length= "1000" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkatekocecilmathebula&label=Profile%20views&color=0e75b6&style=flat" alt="nkatekocecilmathebula" /> </p>
 

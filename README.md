@@ -1,5 +1,6 @@
 <h1 align="center">Hello world👋, I'm Nkateko Mathebula</h1>
 <h3 align="center">A smart thinker who enjoys challenges. I love solving problems and learning. Always thinking of a better ways to improve my life. Technology is simply what drives me, coding is what I enjoy the most.</h3>
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/4502924-Python-developer-animation/attachments/10432197?mode=media"
 
 - 🔭 I’m currently working on **Building an e-commerce shopping system**
 

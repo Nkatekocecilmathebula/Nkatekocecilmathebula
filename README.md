@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nkatekocecilmathebula
+- 👋 Hello world, I am Nkateko Mathebula
 - 👀 I’m interested in Cloud-based technologies, programming(building applications), also networking
 - 🌱 I’m currently learning flutter+ dart programming, Javascript and React
 - 💞️ I’m looking to collaborate on Testing automation related content

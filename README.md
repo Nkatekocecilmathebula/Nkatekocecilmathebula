@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nkatekocecilmathebula" alt="nkatekocecilmathebula" /></a> </p>
 
-<h3 align="left">What I am currently working on:</h3>
+<h3 align="left">Things I am currently working on:</h3>
 
 - 🔭 I’m currently working on ** Building an e-commerce shopping system/ school website/ also my profile**
 
-- 🌱 I’m currently learning and mastering the following **HTML, CSS, JavaScript and Java, also React native**
+- 🌱 I’m currently learning and mastering the following **Python, HTML, CSS, JavaScript and Java, also React native**
 
 - 👯 I’m looking to collaborate more on **Test Automation**
 
